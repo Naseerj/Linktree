@@ -1,0 +1,96 @@
+.section1{
+    display: grid;
+    grid-template-columns: 1fr;
+    column-gap: 30px;
+    /* padding: 10px; */
+}
+.anettediv{
+    /* margin: 0 auto; */
+    text-align: center;
+    padding: 20px;
+}
+.anette{
+    width: 70px;
+    /* margin: 0 auto;
+    text-align: center;
+    align-content: center; */
+}
+.firstdiv{
+    background-color: aliceblue;
+    width: 80%;
+    margin: 0 auto;
+    background: #EAECF0;
+    /* height: 10px; */
+    height: 20px;
+    padding: 15px;
+    
+
+}
+.header1{
+text-align: center;
+margin: 0 auto;
+}
+.secondiv{
+    width: 80%;
+    margin: 0 auto;
+    background: #EAECF0;
+   height: 20px;
+   padding: 15px;
+   margin-top: 15px;
+}
+.header2{
+    text-align: center;
+    margin: 0 auto;
+}
+.thirdiv{
+    width: 80%;
+    margin: 0 auto;
+    background: #EAECF0;
+   height: 20px;
+   padding: 15px;
+   margin-top: 15px;
+}
+.header3{
+    text-align: center;
+    margin: 0 auto;
+}
+.fourthdiv{
+    width: 80%;
+    margin: 0 auto;
+    background: #EAECF0;
+   height: 20px;
+   padding: 15px;
+   margin-top: 15px;
+}
+.header4{
+    text-align: center;
+    margin: 0 auto;
+}
+.fifthdiv{
+    width: 80%;
+    margin: 0 auto;
+    background: #EAECF0;
+   height: 20px;
+   padding: 15px;
+   margin-top: 15px;
+}
+.header5{
+    text-align: center;
+    margin: 0 auto;
+}
+.sixthdiv{
+    width: 80%;
+    margin: 0 auto;
+    background: #EAECF0;
+   height: 20px;
+   padding: 15px;
+   margin-top: 15px;
+}
+.header6{
+    text-align: center;
+    margin: 0 auto;
+}
+.icondiv{
+    margin: 0 auto;
+    padding: 10px;
+}
