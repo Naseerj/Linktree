@@ -60,7 +60,7 @@ const Section1 = () => {
       <div className="icondiv">
         <div className="flexdiv">
         <img src={Slack} alt="" />
-        <a href="https://github.com/Naseerj"><img src={Git} alt="" /></a>
+        <a  href="https://github.com/Naseerj"><img src={Git} alt="" /></a>
         </div>
       </div>
 
